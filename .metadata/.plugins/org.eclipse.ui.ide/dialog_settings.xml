@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
+		<item value="org.eclipse.buildship:2.2.1.v20180125-1441"/>
+		<item value="org.eclipse.egit.gitflow.feature:4.10.0.201712302008-r"/>
+		<item value="org.eclipse.egit:4.10.0.201712302008-r"/>
+		<item value="org.eclipse.emf.common:2.14.0.v20180309-1029"/>
+		<item value="org.eclipse.emf.ecore:2.14.0.v20180420-1131"/>
+		<item value="org.eclipse.epp.mpc:1.7.0.v20180131-1755"/>
+		<item value="org.eclipse.help:2.2.200.v20180514-2000"/>
+		<item value="org.eclipse.jdt:3.14.0.v20180514-2000"/>
+		<item value="org.eclipse.jgit:4.10.0.201712302008-r"/>
+		<item value="org.eclipse.m2e.feature:1.9.0.20180313-2237"/>
+		<item value="org.eclipse.m2e.logback.feature:1.9.0.20180313-2237"/>
+		<item value="org.eclipse.pde:3.13.100.v20180514-2000"/>
+		<item value="org.eclipse.platform:4.8.0.v20180514-2000"/>
+		<item value="org.eclipse.rcp:4.8.0.v20180514-2000"/>
+		<item value="org.eclipse.tm.terminal.control.feature:4.4.0.201803141729"/>
+		<item value="org.eclipse.tm.terminal.feature:4.4.0.201803141729"/>
+		<item value="org.eclipse.tm.terminal.view.feature:4.3.0.201803141729"/>
+		<item value="org.eclipse.userstorage:1.1.0.v20170526-1605"/>
+		<item value="org.eclipse.wst.jsdt.chromium.debug.feature:0.6.0.v201705091354"/>
+		<item value="org.eclipse.wst.jsdt.feature:2.1.1.v201804042202"/>
+		<item value="org.eclipse.wst.json_ui.feature:1.1.2.v201804162113"/>
+		<item value="org.eclipse.wst.web_ui.feature:3.10.0.v201805022129"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.10.0.v201804210200"/>
+		<item value="org.jboss.tools.m2e.wro4j.feature:1.1.0.201406251020"/>
+		<item value="org.sonatype.m2e.buildhelper.feature:0.15.0.201207090124"/>
+		<item value="org.sonatype.m2e.egit.feature:0.14.0.201504071521"/>
+		<item value="org.sonatype.m2e.mavenarchiver.feature:0.17.2.201606141937-signed-20160830073346"/>
+	</list>
+	<section name="DialogMarkerPropertiesDialogSettings">
+		<item value="837" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="271" key="DIALOG_HEIGHT"/>
+		<item value="247" key="DIALOG_X_ORIGIN"/>
+		<item value="191" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

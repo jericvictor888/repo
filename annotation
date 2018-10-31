@@ -1,0 +1,9 @@
+@Documented
+@Retention(RetentionPolicy.RUNTIME)  //SOURCE, CLASS
+@Target({ElementType.FIELD, ElementType.METHOD}) 
+public @interface myAnno(){
+  String str();
+  int nu();
+}
+
+
