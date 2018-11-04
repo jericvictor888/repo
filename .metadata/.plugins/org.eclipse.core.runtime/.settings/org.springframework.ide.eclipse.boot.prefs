@@ -1,13 +1,13 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=snippets
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=HibernateValidator
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.0.6.RELEASE
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=code snippets
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.random
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=snippets
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=HibernateValidator
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.random
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
