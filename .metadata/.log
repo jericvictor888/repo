@@ -4240,3 +4240,444 @@ Binding(CTRL+SHIFT+T,
 !MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
 	HibernateValidator[*]: {CONTENT}
 		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:04:55.924
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.eclipse.ui 2 2 2018-11-04 19:05:38.363
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+
+!ENTRY org.eclipse.ui 2 2 2018-11-04 19:05:38.364
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.properties.editor, propertyPage: org.springframework.ide.eclipse.boot.properties.editor.preferences.SpringPropertiesEditorProjectPropertyPage)
+
+!ENTRY org.eclipse.ui 2 2 2018-11-04 19:05:38.364
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.properties.editor, propertyPage: org.springframework.ide.eclipse.boot.properties.editor.preferences.SpringYamlEditorProjectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:07:12.781
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	enumDemo[*]: {CONTENT}
+		ResourceDelta(/enumDemo/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:07:43.530
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:07:43.629
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:08:40.899
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:08:41.059
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:09:50.603
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:09:50.732
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:13:40.729
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:13:40.905
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:14:05.785
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:14:06.971
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:14:20.483
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:14:20.650
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:09.821
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:09.988
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:24.110
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.annotation[+]: {}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:24.294
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:33.296
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.annotation[*]: {CHILDREN}
+				Custom.java[+]: {}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:33.471
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:16:33.766
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.random.annotation[*]: {CHILDREN}
+				[Working copy] Custom.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:17:30.473
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.annotation[*]: {CHILDREN}
+				[Working copy] Custom.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:17:30.634
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:20:18.482
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.annotation[*]: {CHILDREN}
+				[Working copy] Custom.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:20:18.629
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:20:39.411
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[+]: {}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:20:39.549
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:20:39.617
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:23:12.016
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:23:12.157
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:23:20.596
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:23:20.771
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:23:27.124
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:23:27.343
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:18.410
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:18.535
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:43.597
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.annotation[*]: {CHILDREN}
+				[Working copy] Custom.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:43.802
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:54.161
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:54.444
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:57.076
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:26:57.288
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:27:29.075
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:27:29.197
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:28:36.849
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:28:37.066
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:33:48.985
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:33:49.164
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:35:13.074
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.domain[*]: {CHILDREN}
+				[Working copy] Car.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:35:13.228
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:36:10.153
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:36:10.357
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:36:36.411
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:36:36.596
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:37:22.192
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:37:22.420
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:37:48.176
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:37:48.315
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:37:59.591
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {CHILDREN | FINE GRAINED | PRIMARY RESOURCE}
+					<import container>[*]: {CHILDREN | FINE GRAINED}
+						import java.util.Optional[-]: {}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:37:59.767
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:38:01.781
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/test/java[*]: {CHILDREN}
+			com.random[*]: {CHILDREN}
+				[Working copy] HibernateValidatorApplicationTests.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:38:01.961
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/src)[*]
+		ResourceDelta(/HibernateValidator/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:43:39.185
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.random.validator[*]: {CHILDREN}
+				[Working copy] CustomValidator.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/HibernateValidator/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-04 19:43:39.378
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HibernateValidator[*]: {CONTENT}
+		ResourceDelta(/HibernateValidator/target)[*]]

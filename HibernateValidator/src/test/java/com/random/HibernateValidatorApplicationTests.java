@@ -1,7 +1,7 @@
 package com.random;
 
 import static org.junit.Assert.assertEquals;
-
+import static org.junit.Assert.fail;
 import java.util.Set;
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
@@ -13,6 +13,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 import com.random.domain.Car;
 
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class HibernateValidatorApplicationTests {
@@ -24,10 +27,28 @@ public class HibernateValidatorApplicationTests {
 	}
 
 	@Test
-	public void contextLoads() {	
-		Car car = new Car(null);
+	public void ValidateThatAttributeIsNull() {	
+		Car car = new Car(null, "custom");
 		Set<ConstraintViolation<Car>> constraintViolations = validator.validate(car);
 		assertEquals(1, constraintViolations.size());
+		assertEquals("color must not be null", constraintViolations.stream().findFirst().get().getMessage());
 	}
-
+	
+	@Test
+	public void CustomValidatorTestPositive() {
+		Car car = new Car("red", "custom");   //correct custom value
+		Set<ConstraintViolation<Car>> constraintViolation = validator.validate(car);
+		if(constraintViolation.size()>0) {
+			fail();
+		}
+	}
+	
+	@Test 
+	public void CustomValidatorTestNegative() {
+		Car car = new Car("blue", "other"); //Incorrect custom value
+		Set<ConstraintViolation<Car>> constraintViolation = validator.validate(car);
+		assertEquals("custom attribute value is incorrect", 
+				constraintViolation.stream().findFirst().get().getMessage());
+	}
+	
 }
