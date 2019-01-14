@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/jericho/repo/.git\:
-GitRepositoriesView.GitDirectories.relative=.git\:
+GitRepositoriesView.GitDirectories=/home/jericho/random/.git\:/home/jericho/repo/.git\:
+GitRepositoriesView.GitDirectories.relative=/home/jericho/random/.git\:.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

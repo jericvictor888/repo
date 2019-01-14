@@ -8,6 +8,8 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="intern"/>
+			<item value="hashcode"/>
 			<item value="Test lang"/>
 			<item value="test "/>
 			<item value="test"/>
